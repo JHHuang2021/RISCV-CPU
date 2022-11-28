@@ -1,0 +1,3768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SVCompilerDirectivesDefines">
+    <option name="defines">
+      <map>
+        <entry key="/include.v">
+          <value>
+            <map>
+              <entry key="ADDR_TYPE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1105" />
+                      <option name="replacementList" value="31:0" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="DATA_TYPE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1128" />
+                      <option name="replacementList" value="31:0" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="DEF">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="39" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="EIntellijIdeaRulezzz">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1246" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FALSE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1209" />
+                      <option name="replacementList" value="1'b0" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_ADD">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2382" />
+                      <option name="replacementList" value="3'b000" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_ADDI">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2147" />
+                      <option name="replacementList" value="3'b000" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_AND">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2607" />
+                      <option name="replacementList" value="3'b111" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_ANDI">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2277" />
+                      <option name="replacementList" value="3'b111" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_BEQ">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1798" />
+                      <option name="replacementList" value="3'b000" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_BGE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1873" />
+                      <option name="replacementList" value="3'b101" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_BGEU">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1924" />
+                      <option name="replacementList" value="3'b111" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_BLT">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1848" />
+                      <option name="replacementList" value="3'b100" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_BLTU">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1898" />
+                      <option name="replacementList" value="3'b110" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_BNE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1823" />
+                      <option name="replacementList" value="3'b001" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_JALR">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1771" />
+                      <option name="replacementList" value="3'b000" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_LB">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1951" />
+                      <option name="replacementList" value="3'b000" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_LBU">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2023" />
+                      <option name="replacementList" value="3'b100" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_LH">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1975" />
+                      <option name="replacementList" value="3'b001" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_LHU">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2048" />
+                      <option name="replacementList" value="3'b101" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_LW">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1999" />
+                      <option name="replacementList" value="3'b010" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_OR">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2583" />
+                      <option name="replacementList" value="3'b110" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_ORI">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2252" />
+                      <option name="replacementList" value="3'b110" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_RANGE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1355" />
+                      <option name="replacementList" value="14:12" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_SB">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2074" />
+                      <option name="replacementList" value="3'b000" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_SH">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2098" />
+                      <option name="replacementList" value="3'b001" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_SLL">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2432" />
+                      <option name="replacementList" value="3'b001" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_SLLI">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2303" />
+                      <option name="replacementList" value="3'b001" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_SLT">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2457" />
+                      <option name="replacementList" value="3'b010" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_SLTI">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2173" />
+                      <option name="replacementList" value="3'b010" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_SLTIU">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2199" />
+                      <option name="replacementList" value="3'b011" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_SLTU">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2482" />
+                      <option name="replacementList" value="3'b011" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_SRA">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2558" />
+                      <option name="replacementList" value="3'b101" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_SRAI">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2355" />
+                      <option name="replacementList" value="3'b101" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_SRL">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2533" />
+                      <option name="replacementList" value="3'b101" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_SRLI">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2329" />
+                      <option name="replacementList" value="3'b101" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_SUB">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2407" />
+                      <option name="replacementList" value="3'b000" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_SW">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2122" />
+                      <option name="replacementList" value="3'b010" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_XOR">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2508" />
+                      <option name="replacementList" value="3'b100" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_XORI">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2226" />
+                      <option name="replacementList" value="3'b100" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC7_NORM">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2643" />
+                      <option name="replacementList" value="7'b0000000" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC7_RANGE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1381" />
+                      <option name="replacementList" value="31:25" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC7_SPEC">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2673" />
+                      <option name="replacementList" value="7'b0100000" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="INS_TYPE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1083" />
+                      <option name="replacementList" value="31:0" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="INT_TYPE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1036" />
+                      <option name="replacementList" value="31:0" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="INVALID_LSB">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1407" />
+                      <option name="replacementList" value="5'h10" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="INVALID_RS">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1360" />
+                      <option name="replacementList" value="5'h10" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="MEMPORT_TYPE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1058" />
+                      <option name="replacementList" value="7:0" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPCODE_ARITH">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1729" />
+                      <option name="replacementList" value="7'b0110011" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPCODE_ARITHI">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1696" />
+                      <option name="replacementList" value="7'b0010011" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPCODE_AUIPC">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1518" />
+                      <option name="replacementList" value="7'b0010111" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPCODE_BR">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1611" />
+                      <option name="replacementList" value="7'b1100011" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPCODE_JAL">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1550" />
+                      <option name="replacementList" value="7'b1101111" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPCODE_JALR">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1580" />
+                      <option name="replacementList" value="7'b1100111" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPCODE_L">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1640" />
+                      <option name="replacementList" value="7'b0000011" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPCODE_LUI">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1488" />
+                      <option name="replacementList" value="7'b0110111" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPCODE_RANGE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1330" />
+                      <option name="replacementList" value="6:0" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPCODE_S">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1668" />
+                      <option name="replacementList" value="7'b0100011" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_ADD">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="514" />
+                      <option name="replacementList" value="6'd19" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_ADDI">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="765" />
+                      <option name="replacementList" value="6'd29" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_AND">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="739" />
+                      <option name="replacementList" value="6'd28" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_ANDI">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="895" />
+                      <option name="replacementList" value="6'd34" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_AUIPC">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="94" />
+                      <option name="replacementList" value="6'd2" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_BEQ">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="171" />
+                      <option name="replacementList" value="6'd5" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_BGE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="243" />
+                      <option name="replacementList" value="6'd8" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_BGEU">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="292" />
+                      <option name="replacementList" value="6'd10" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_BLT">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="219" />
+                      <option name="replacementList" value="6'd7" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_BLTU">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="267" />
+                      <option name="replacementList" value="6'd9" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_BNE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="195" />
+                      <option name="replacementList" value="6'd6" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_JAL">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="121" />
+                      <option name="replacementList" value="6'd3" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_JALR">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="145" />
+                      <option name="replacementList" value="6'd4" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_LB">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="319" />
+                      <option name="replacementList" value="6'd11" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_LBU">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="391" />
+                      <option name="replacementList" value="6'd14" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_LH">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="343" />
+                      <option name="replacementList" value="6'd12" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_LHU">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="416" />
+                      <option name="replacementList" value="6'd15" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_LUI">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="70" />
+                      <option name="replacementList" value="6'd1" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_LW">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="367" />
+                      <option name="replacementList" value="6'd13" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_OR">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="715" />
+                      <option name="replacementList" value="6'd27" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_ORI">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="870" />
+                      <option name="replacementList" value="6'd33" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_SB">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="441" />
+                      <option name="replacementList" value="6'd16" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_SH">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="465" />
+                      <option name="replacementList" value="6'd17" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_SLL">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="564" />
+                      <option name="replacementList" value="6'd21" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_SLLI">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="921" />
+                      <option name="replacementList" value="6'd35" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_SLT">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="589" />
+                      <option name="replacementList" value="6'd22" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_SLTI">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="791" />
+                      <option name="replacementList" value="6'd30" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_SLTIU">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="817" />
+                      <option name="replacementList" value="6'd31" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_SLTU">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="614" />
+                      <option name="replacementList" value="6'd23" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_SRA">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="690" />
+                      <option name="replacementList" value="6'd26" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_SRAI">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="973" />
+                      <option name="replacementList" value="6'd37" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_SRL">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="665" />
+                      <option name="replacementList" value="6'd25" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_SRLI">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="947" />
+                      <option name="replacementList" value="6'd36" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_SUB">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="539" />
+                      <option name="replacementList" value="6'd20" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_SW">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="489" />
+                      <option name="replacementList" value="6'd18" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_TYPE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1151" />
+                      <option name="replacementList" value="5:0" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_XOR">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="640" />
+                      <option name="replacementList" value="6'd24" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_XORI">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="844" />
+                      <option name="replacementList" value="6'd32" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="RD_RANGE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1407" />
+                      <option name="replacementList" value="11:7" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="REG_TYPE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1175" />
+                      <option name="replacementList" value="5:0" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="RS1_RANGE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1429" />
+                      <option name="replacementList" value="19:15" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="RS2_RANGE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1453" />
+                      <option name="replacementList" value="24:20" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="STATUS_TYPE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1012" />
+                      <option name="replacementList" value="2:0" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="TRUE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1228" />
+                      <option name="replacementList" value="1'b1" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="ZEIntellijIdeaRulezzz">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1270" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="ZERO_ADDR">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1246" />
+                      <option name="replacementList" value="3" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                    <Body>
+                      <option name="offset" value="1246" />
+                      <option name="replacementList" value="32'h" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                    <Body>
+                      <option name="offset" value="1246" />
+                      <option name="replacementList" value="32'h0" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="ZERO_IntellijIdeaRulezzz">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1246" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="ZERO_LSB">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1385" />
+                      <option name="replacementList" value="5'h0" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="ZERO_REG">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1294" />
+                      <option name="replacementList" value="5" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                    <Body>
+                      <option name="offset" value="1294" />
+                      <option name="replacementList" value="5'h" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                    <Body>
+                      <option name="offset" value="1317" />
+                      <option name="replacementList" value="5'h0" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="ZERO_ROB">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1433" />
+                      <option name="replacementList" value="4'h0" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="ZERO_RS">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1339" />
+                      <option name="replacementList" value="5'h0" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="ZERO_WIntellijIdeaRulezzz">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1270" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="ZERO_WORD">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1270" />
+                      <option name="replacementList" value="3" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                    <Body>
+                      <option name="offset" value="1270" />
+                      <option name="replacementList" value="32'h" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                    <Body>
+                      <option name="offset" value="1270" />
+                      <option name="replacementList" value="32'h0" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="ZIntellijIdeaRulezzz">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1246" />
+                      <option name="source" value="/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+            </map>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/riscv/src/include.v">
+          <value>
+            <map>
+              <entry key="ADDR_TYPE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1105" />
+                      <option name="replacementList" value="31:0" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="DATA_TYPE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1128" />
+                      <option name="replacementList" value="31:0" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="DEF">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="39" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="E">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1246" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FALSE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1209" />
+                      <option name="replacementList" value="1'b0" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_ADD">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2359" />
+                      <option name="replacementList" value="3'b000" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_ADDI">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2124" />
+                      <option name="replacementList" value="3'b000" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_AND">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2584" />
+                      <option name="replacementList" value="3'b111" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_ANDI">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2254" />
+                      <option name="replacementList" value="3'b111" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_BEQ">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1775" />
+                      <option name="replacementList" value="3'b000" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_BGE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1850" />
+                      <option name="replacementList" value="3'b101" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_BGEU">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1901" />
+                      <option name="replacementList" value="3'b111" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_BLT">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1825" />
+                      <option name="replacementList" value="3'b100" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_BLTU">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1875" />
+                      <option name="replacementList" value="3'b110" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_BNE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1800" />
+                      <option name="replacementList" value="3'b001" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_JALR">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1748" />
+                      <option name="replacementList" value="3'b000" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_LB">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1928" />
+                      <option name="replacementList" value="3'b000" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_LBU">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2000" />
+                      <option name="replacementList" value="3'b100" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_LH">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1952" />
+                      <option name="replacementList" value="3'b001" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_LHU">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2025" />
+                      <option name="replacementList" value="3'b101" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_LW">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1976" />
+                      <option name="replacementList" value="3'b010" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_OR">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2560" />
+                      <option name="replacementList" value="3'b110" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_ORI">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2229" />
+                      <option name="replacementList" value="3'b110" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_RANGE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1332" />
+                      <option name="replacementList" value="14:12" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_SB">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2051" />
+                      <option name="replacementList" value="3'b000" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_SH">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2075" />
+                      <option name="replacementList" value="3'b001" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_SLL">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2409" />
+                      <option name="replacementList" value="3'b001" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_SLLI">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2280" />
+                      <option name="replacementList" value="3'b001" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_SLT">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2434" />
+                      <option name="replacementList" value="3'b010" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_SLTI">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2150" />
+                      <option name="replacementList" value="3'b010" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_SLTIU">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2176" />
+                      <option name="replacementList" value="3'b011" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_SLTU">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2459" />
+                      <option name="replacementList" value="3'b011" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_SRA">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2535" />
+                      <option name="replacementList" value="3'b101" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_SRAI">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2332" />
+                      <option name="replacementList" value="3'b101" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_SRL">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2510" />
+                      <option name="replacementList" value="3'b101" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_SRLI">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2306" />
+                      <option name="replacementList" value="3'b101" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_SUB">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2384" />
+                      <option name="replacementList" value="3'b000" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_SW">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2099" />
+                      <option name="replacementList" value="3'b010" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_XOR">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2485" />
+                      <option name="replacementList" value="3'b100" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC3_XORI">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2203" />
+                      <option name="replacementList" value="3'b100" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC7_NORM">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2620" />
+                      <option name="replacementList" value="7'b0000000" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC7_RANGE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1358" />
+                      <option name="replacementList" value="31:25" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="FUNC7_SPEC">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="2650" />
+                      <option name="replacementList" value="7'b0100000" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="INS_TYPE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1083" />
+                      <option name="replacementList" value="31:0" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="INT_TYPE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1036" />
+                      <option name="replacementList" value="31:0" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="INVALID_LSB">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1384" />
+                      <option name="replacementList" value="5'h10" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="INVALID_RS">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1337" />
+                      <option name="replacementList" value="5'h10" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="MEMPORT_TYPE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1058" />
+                      <option name="replacementList" value="7:0" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPCODE_ARITH">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1706" />
+                      <option name="replacementList" value="7'b0110011" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPCODE_ARITHI">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1673" />
+                      <option name="replacementList" value="7'b0010011" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPCODE_AUIPC">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1495" />
+                      <option name="replacementList" value="7'b0010111" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPCODE_BR">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1588" />
+                      <option name="replacementList" value="7'b1100011" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPCODE_JAL">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1527" />
+                      <option name="replacementList" value="7'b1101111" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPCODE_JALR">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1557" />
+                      <option name="replacementList" value="7'b1100111" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPCODE_L">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1617" />
+                      <option name="replacementList" value="7'b0000011" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPCODE_LUI">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1465" />
+                      <option name="replacementList" value="7'b0110111" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPCODE_RANGE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1307" />
+                      <option name="replacementList" value="6:0" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPCODE_S">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1645" />
+                      <option name="replacementList" value="7'b0100011" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_ADD">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="514" />
+                      <option name="replacementList" value="6'd19" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_ADDI">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="765" />
+                      <option name="replacementList" value="6'd29" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_AND">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="739" />
+                      <option name="replacementList" value="6'd28" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_ANDI">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="895" />
+                      <option name="replacementList" value="6'd34" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_AUIPC">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="94" />
+                      <option name="replacementList" value="6'd2" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_BEQ">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="171" />
+                      <option name="replacementList" value="6'd5" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_BGE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="243" />
+                      <option name="replacementList" value="6'd8" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_BGEU">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="292" />
+                      <option name="replacementList" value="6'd10" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_BLT">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="219" />
+                      <option name="replacementList" value="6'd7" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_BLTU">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="267" />
+                      <option name="replacementList" value="6'd9" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_BNE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="195" />
+                      <option name="replacementList" value="6'd6" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_JAL">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="121" />
+                      <option name="replacementList" value="6'd3" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_JALR">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="145" />
+                      <option name="replacementList" value="6'd4" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_LB">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="319" />
+                      <option name="replacementList" value="6'd11" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_LBU">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="391" />
+                      <option name="replacementList" value="6'd14" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_LH">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="343" />
+                      <option name="replacementList" value="6'd12" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_LHU">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="416" />
+                      <option name="replacementList" value="6'd15" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_LUI">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="70" />
+                      <option name="replacementList" value="6'd1" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_LW">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="367" />
+                      <option name="replacementList" value="6'd13" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_OR">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="715" />
+                      <option name="replacementList" value="6'd27" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_ORI">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="870" />
+                      <option name="replacementList" value="6'd33" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_SB">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="441" />
+                      <option name="replacementList" value="6'd16" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_SH">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="465" />
+                      <option name="replacementList" value="6'd17" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_SLL">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="564" />
+                      <option name="replacementList" value="6'd21" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_SLLI">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="921" />
+                      <option name="replacementList" value="6'd35" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_SLT">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="589" />
+                      <option name="replacementList" value="6'd22" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_SLTI">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="791" />
+                      <option name="replacementList" value="6'd30" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_SLTIU">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="817" />
+                      <option name="replacementList" value="6'd31" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_SLTU">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="614" />
+                      <option name="replacementList" value="6'd23" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_SRA">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="690" />
+                      <option name="replacementList" value="6'd26" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_SRAI">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="973" />
+                      <option name="replacementList" value="6'd37" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_SRL">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="665" />
+                      <option name="replacementList" value="6'd25" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_SRLI">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="947" />
+                      <option name="replacementList" value="6'd36" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_SUB">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="539" />
+                      <option name="replacementList" value="6'd20" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_SW">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="489" />
+                      <option name="replacementList" value="6'd18" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_TYPE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1151" />
+                      <option name="replacementList" value="5:0" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_XOR">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="640" />
+                      <option name="replacementList" value="6'd24" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="OPENUM_XORI">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="844" />
+                      <option name="replacementList" value="6'd32" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="RD_RANGE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1384" />
+                      <option name="replacementList" value="11:7" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="REG_TYPE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1175" />
+                      <option name="replacementList" value="5:0" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="RS1_RANGE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1406" />
+                      <option name="replacementList" value="19:15" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="RS2_RANGE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1430" />
+                      <option name="replacementList" value="24:20" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="STATUS_TYPE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1012" />
+                      <option name="replacementList" value="2:0" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="TRUE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1228" />
+                      <option name="replacementList" value="1'b1" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="Z">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1246" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="ZE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1246" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="ZER">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1246" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="ZERO">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1246" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="ZERO_">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1246" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="ZERO_A">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1246" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="ZERO_AD">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1246" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="ZERO_ADD">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1246" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="ZERO_ADDR">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1246" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                    <Body>
+                      <option name="offset" value="1246" />
+                      <option name="replacementList" value="3" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                    <Body>
+                      <option name="offset" value="1246" />
+                      <option name="replacementList" value="32" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                    <Body>
+                      <option name="offset" value="1246" />
+                      <option name="replacementList" value="32'" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                    <Body>
+                      <option name="offset" value="1246" />
+                      <option name="replacementList" value="32'h" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                    <Body>
+                      <option name="offset" value="1246" />
+                      <option name="replacementList" value="32'h0" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="ZERO_LSB">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1362" />
+                      <option name="replacementList" value="5'h0" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="ZERO_R">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1294" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="ZERO_RE">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1294" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="ZERO_REG">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1294" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                    <Body>
+                      <option name="offset" value="1294" />
+                      <option name="replacementList" value="5" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                    <Body>
+                      <option name="offset" value="1294" />
+                      <option name="replacementList" value="5'" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                    <Body>
+                      <option name="offset" value="1294" />
+                      <option name="replacementList" value="5'h" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                    <Body>
+                      <option name="offset" value="1294" />
+                      <option name="replacementList" value="5'h0" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="ZERO_ROB">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1410" />
+                      <option name="replacementList" value="4'h0" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="ZERO_RS">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1316" />
+                      <option name="replacementList" value="5'h0" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="ZERO_W">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1270" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="ZERO_WO">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1270" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="ZERO_WOR">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1270" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="ZERO_WORD">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1270" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                    <Body>
+                      <option name="offset" value="1270" />
+                      <option name="replacementList" value="3" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                    <Body>
+                      <option name="offset" value="1270" />
+                      <option name="replacementList" value="32" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                    <Body>
+                      <option name="offset" value="1270" />
+                      <option name="replacementList" value="32'" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                    <Body>
+                      <option name="offset" value="1270" />
+                      <option name="replacementList" value="32'h" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                    <Body>
+                      <option name="offset" value="1270" />
+                      <option name="replacementList" value="32'h0" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+              <entry key="ZX">
+                <value>
+                  <list>
+                    <Body>
+                      <option name="offset" value="1270" />
+                      <option name="source" value="$PROJECT_DIR$/riscv/src/include.v" />
+                    </Body>
+                  </list>
+                </value>
+              </entry>
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="dependencies">
+      <map>
+        <entry key="DATA_TYPE">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="DEF">
+          <value>
+            <set>
+              <option value="/include.v" />
+              <option value="$PROJECT_DIR$/riscv/src/include.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FALSE">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FUNC3_ADD">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FUNC3_ADDI">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FUNC3_AND">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FUNC3_ANDI">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FUNC3_BEQ">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FUNC3_BGE">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FUNC3_BGEU">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FUNC3_BLT">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FUNC3_BLTU">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FUNC3_BNE">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FUNC3_LB">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FUNC3_LBU">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FUNC3_LH">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FUNC3_LHU">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FUNC3_LW">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FUNC3_OR">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FUNC3_ORI">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FUNC3_RANGE">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FUNC3_SB">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FUNC3_SH">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FUNC3_SLL">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FUNC3_SLLI">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FUNC3_SLT">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FUNC3_SLTI">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FUNC3_SLTIU">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FUNC3_SLTU">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FUNC3_SRAI">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FUNC3_SRL">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FUNC3_SRLI">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FUNC3_SUB">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FUNC3_SW">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FUNC3_XOR">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FUNC3_XORI">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FUNC7_RANGE">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="FUNC7_SPEC">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="INS_TYPE">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="J">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="JA">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="JAL">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="JALR">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="JALRIntellijIdeaRulezzz">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="JIntellijIdeaRulezzz">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="O">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OIntellijIdeaRulezzz">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OP">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPA">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPAR">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPARI">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPC">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPCL">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPCLIntellijIdeaRulezzz">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPCO">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPCOD">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPCODE">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPCODEIntellijIdeaRulezzz">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPCODEJ">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPCODEJA">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPCODEJAL">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPCODEJALR">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPCODEJALRIntellijIdeaRulezzz">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPCODE_">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPCODE_ARITH">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPCODE_ARITHI">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPCODE_AUIPC">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPCODE_BR">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPCODE_J">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPCODE_JA">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPCODE_JAL">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPCODE_JALR">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPCODE_JALRIntellijIdeaRulezzz">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPCODE_JALRbegin">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPCODE_L">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPCODE_LUI">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPCODE_RANGE">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPCODE_S">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPE">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPEN">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENU">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_ADD">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_ADDI">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_AND">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_ANDI">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_BEQ">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_BGE">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_BGEU">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_BLT">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_BLTU">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_BNE">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_J">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_JA">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_JAL">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_JALIntellijIdeaRulezzz">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_LB">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_LBU">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_LH">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_LHU">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_LUI">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_LW">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_NOP">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_OR">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_ORI">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_SB">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_SH">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_SLL">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_SLLI">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_SLT">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_SLTI">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_SLTIU">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_SLTU">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_SRA">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_SRAI">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_SRL">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_SRLI">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_SUB">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_SW">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_TYPE">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_XOR">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPENUM_XORI">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="OPIntellijIdeaRulezzz">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="RD_RANGE">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="REG_TYPE">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="RS1_RANGE">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="RS2_RANGE">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="TRUE">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ZERO_REG">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="ZERO_WORD">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="d">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/include.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="dIntellijIdeaRulezzz">
+          <value>
+            <set>
+              <option value="/include.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="de">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/include.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="def">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/include.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="defi">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/include.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="defin">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/include.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="t">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="tIntellijIdeaRulezzz">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="tr">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="tru">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="true">
+          <value>
+            <set>
+              <option value="$PROJECT_DIR$/riscv/src/decoder/decoder.v" />
+            </set>
+          </value>
+        </entry>
+        <entry key="trueIntellijIdeaRulezzz">
+          <value>
+            <set>
+              <option value="/decoder.v" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="status" value="NORMAL" />
+    <option name="version" value="798" />
+  </component>
+</project>
